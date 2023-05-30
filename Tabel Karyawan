@@ -1,0 +1,1 @@
+INSERT INTO `karyawan` (`IDKaryawan`, `NMKaryawan`, `TglMasukKerja`, `USIA`) VALUES ('001', 'Andi', '2012-03-02 08:43:44', '25'), ('002', 'Anto', '2013-06-02 08:44:03', '24'), ('003', 'Adi', '2000-05-21 08:44:45', '27'), ('004', 'Amin', '2018-08-05 00:00:00', '31')
