@@ -1,0 +1,19 @@
+Penerimaan kendaraan: Pelanggan membawa kendaraan mereka ke bengkel untuk diperbaiki atau mendapatkan layanan. Petugas penerimaan kendaraan mencatat detail kendaraan, termasuk jenis kendaraan, nomor plat, kilometer saat ini, dan masalah yang dihadapi.
+
+Perkiraan biaya: Petugas bengkel melakukan pengecekan kendaraan dan menentukan perkiraan biaya perbaikan atau layanan. Mereka memberikan perkiraan biaya kepada pelanggan berdasarkan masalah yang teridentifikasi dan pekerjaan yang diperlukan.
+
+Persetujuan pelanggan: Pelanggan meninjau dan menyetujui perkiraan biaya yang diberikan oleh petugas bengkel. Jika pelanggan setuju, mereka memberikan persetujuan untuk melanjutkan pekerjaan.
+
+Penjadwalan pekerjaan: Petugas bengkel mengatur jadwal pekerjaan berdasarkan urutan kedatangan dan jenis pekerjaan yang perlu dilakukan. Mereka menentukan waktu mulai dan perkiraan waktu penyelesaian.
+
+Pengerjaan pekerjaan: Teknisi bengkel melakukan pekerjaan perbaikan atau layanan sesuai dengan masalah yang teridentifikasi dan instruksi yang diberikan oleh petugas bengkel. Mereka mencatat pekerjaan yang dilakukan, suku cadang yang diganti, dan waktu yang dihabiskan.
+
+Penambahan suku cadang (jika diperlukan): Jika selama pengerjaan ditemukan suku cadang yang perlu diganti, teknisi melaporkan ke petugas bengkel. Petugas bengkel memeriksa ketersediaan suku cadang dan menambahkannya ke daftar pekerjaan.
+
+Pengujian dan pemeriksaan: Setelah pekerjaan selesai, kendaraan diuji dan diperiksa oleh teknisi untuk memastikan bahwa semua masalah telah diperbaiki dengan baik. Mereka memastikan bahwa kendaraan berfungsi dengan baik dan sesuai standar keamanan.
+
+Penyelesaian transaksi: Setelah kendaraan selesai diperbaiki atau dilayani, petugas bengkel menginformasikan pelanggan tentang pekerjaan yang dilakukan dan jumlah biaya yang harus dibayarkan. Pelanggan membayar biaya yang telah disepakati.
+
+Pengambilan kendaraan: Setelah transaksi selesai, pelanggan mengambil kendaraan mereka dari bengkel. Petugas bengkel memberikan kendaraan dan semua dokumen terkait yang diperlukan kepada pelanggan.
+
+Rekam transaksi: Seluruh transaksi dicatat dalam sistem bengkel untuk tujuan pencatatan dan pelacakan. Detail transaksi termasuk informasi kendaraan, pekerjaan yang dilakukan, suku cadang yang diganti, biaya, dan informasi pelanggan.
